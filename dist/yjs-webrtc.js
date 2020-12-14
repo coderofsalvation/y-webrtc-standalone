@@ -12119,7 +12119,7 @@
   /* eslint-env browser */
 
   window.Y = Y;
-  window.Y.WebrtcProvider = WebrtcProvider;
+  window.WebrtcProvider = WebrtcProvider;
 
 }());
 //# sourceMappingURL=yjs-webrtc.js.map
