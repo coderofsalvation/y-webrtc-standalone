@@ -2,7 +2,7 @@
 
 * run `npm run dist` to build `dist/yjs-webrtc.js`
 
-it will expose `window.Y` and `window.Y.WebrtcProvider`
+Just use `<script src="dist/yjs-webrtc.js"></script>` which will expose `window.Y` and `window.Y.WebrtcProvider`
 
 # WebRTC connector for [Yjs](https://github.com/yjs/yjs)
 
