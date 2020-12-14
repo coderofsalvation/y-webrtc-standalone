@@ -71,10 +71,10 @@ const plugins = [
 
 export default [
   {
-    input: './demo/index.js',
+    input: './lib/index.js',
     output: [{
-      name: 'demo',
-      file: 'dist/demo.js',
+      name: 'lib',
+      file: 'dist/yjs-webrtc.js',
       format: 'iife',
       sourcemap: true
     }],

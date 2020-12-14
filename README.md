@@ -1,3 +1,9 @@
+> NOTE: this is a mirror of [y-webrtc](https://github.com/yjs/y-webrtc) bundled with Y (so it can be used as a drop-in library without buildstep)
+
+* run `npm run dist` to build `dist/yjs-webrtc.js`
+
+it will expose `window.Y` and `window.Y.WebrtcProvider`
+
 # WebRTC connector for [Yjs](https://github.com/yjs/yjs)
 
 Propagates document updates peer-to-peer to all users using WebRTC.
